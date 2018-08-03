@@ -10,7 +10,7 @@
 }
 
 .HolyGrail-body {
-  background-image: url('https://www.planwallpaper.com/static/images/background-design-14-Cool-Backgrounds.jpg');
+  background-image: url("https://www.planwallpaper.com/static/images/background-design-14-Cool-Backgrounds.jpg");
   display: flex;
   flex: 1 0 auto; /* 2 */
   flex-direction: column;
